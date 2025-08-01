@@ -33,6 +33,3 @@ Prepare for coding interviews and contests
 Track daily/weekly progress
 
 
-
-ChatGPT said:
-A curated collection of Data Structures and Algorithms implemented in C++/Python. Ideal for interview prep, competitive programming, and concept revision. Covers arrays, trees, graphs, recursion, DP, and more. Continuously updated for learning, practice, and mastery of problem-solving skills.
